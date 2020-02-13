@@ -3,20 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: logo.jpg
-
 About us!
 ==================================
 
+.. image:: logo.jpg
+
 .. py:function:: About our team
 
-   We are a team of 6 people from Lucian Blaga High School
+   We are a team of 6 people from `Lucian Blaga High School <http://www.liceulblagacluj.ro/>`_
    in the city of Cluj-Napoca, Romania.
+
 
 .. py:function:: What are we doing?
 
    Our experiment consists of the following:
-      * Constantly monitoring the:
+      * Constantly monitoring the
          - Temperature
          - Humidity
          - Pressure
@@ -25,6 +26,9 @@ About us!
       * We measure the distance between the ISS and the Earth
    Based on the data we gather we are going to make a report about the long-term effects that the astronauts may experience. 
 
+Source code | Repository
+==================================
+ Our entire project is available on `Github <https://github.com/davidp-ro/BPC_Pi>`_
 
 Documentation
 ==================================
