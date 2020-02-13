@@ -3,8 +3,10 @@
 This is the repository for [Astro Pi](https://astro-pi.org/) team BPC_Pi.
 
 ## What's inside?
-> Our main python script
-> Our documentation
+```
+ Our main python script
+ Our documentation
+```
 
 ## SenseHat Cheatsheet 
 
